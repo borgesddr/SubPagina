@@ -1,0 +1,7 @@
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\bin\Debug\substituicao_pagina.exe.config
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\bin\Debug\substituicao_pagina.exe
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\bin\Debug\substituicao_pagina.pdb
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\obj\Debug\substituicao_pagina.csprojAssemblyReference.cache
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\obj\Debug\substituicao_pagina.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\obj\Debug\substituicao_pagina.exe
+C:\Users\Lucas Borges\Desktop\Git\SubPagina\obj\Debug\substituicao_pagina.pdb
